@@ -1,5 +1,3 @@
-# script python para integração de mysql => pivot select => python(pandas) => csv
-
 import mysql.connector as sql
 import random
 import pandas as pd
